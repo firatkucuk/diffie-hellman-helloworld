@@ -1,10 +1,14 @@
-group 'com.codvio'
-version '1.1.0'
+plugins {
+  id 'java'
+}
 
-apply plugin: 'java'
+group 'com.gihub.firatkucuk'
+version '1.2.0'
 
-sourceCompatibility = 1.5
+java {
+  sourceCompatibility = '11'
+}
 
 repositories {
-    mavenCentral()
+  mavenCentral()
 }

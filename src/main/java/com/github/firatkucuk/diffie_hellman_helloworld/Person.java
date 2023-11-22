@@ -1,5 +1,5 @@
 
-package com.codvio.examples.diffie_hellman_helloworld;
+package com.github.firatkucuk.diffie_hellman_helloworld;
 
 import javax.crypto.Cipher;
 import javax.crypto.KeyAgreement;
